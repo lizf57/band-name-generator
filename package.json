@@ -1,0 +1,23 @@
+{
+  "name": "band-name-generator",
+  "version": "1.0.0",
+  "description": "a simple nodejs band name generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizf57/band-name-generator.git"
+  },
+  "author": "liz friedman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizf57/band-name-generator/issues"
+  },
+  "homepage": "https://github.com/lizf57/band-name-generator#readme",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "random-words": "^2.0.0"
+  }
+}
